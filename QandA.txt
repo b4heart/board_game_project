@@ -1,0 +1,26 @@
+#####################################################
+Number.
+Q. write a question
+A. Write the corresponding answer
+E. Write the matching element name
+C. country name
+#####################################################
+
+1.
+Q. What is calcium carbonate commonly known as?
+A. Calcite
+E. Calcium
+C. United States, Brazil
+
+
+2.
+Q. What is the birth month of the birthstone Emerald according to United States?
+A. May
+E. Emerald
+C. Columbia
+
+3.
+Q.
+A.
+E. Gold
+C. Uzbekistan
