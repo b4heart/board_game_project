@@ -1,26 +1,158 @@
 #####################################################
 Number.
-Q. write a question
-A. Write the corresponding answer
-E. Write the matching element name
-C. country name
+Question: write a question
+Answer: Write the corresponding answer
+Commodity: Write the matching element name
+Country:  country name
 #####################################################
 
 1.
-Q. What is calcium carbonate commonly known as?
-A. Calcite
-E. Calcium
-C. United States, Brazil
+Question: What was the material that was used for making arrow heads during the time of native Americans?
+Answer: Obsidian. These are igneous rocks that are formed due to super fast cooling of Lava.
+Commodity: Obsidian
+Country:  Costa Rica
 
 
 2.
-Q. What is the birth month of the birthstone Emerald according to United States?
-A. May
-E. Emerald
-C. Columbia
+Question: What is most common natural form of Calcium Carbonate?
+Answer: Calcite
+Commodity: Calcite
+Country:  Brazil
 
 3.
-Q.
-A.
-E. Gold
-C. Uzbekistan
+Question: What is the material that goes into your wallboards, cement, and has an hardness of 2/10 on the Mohs hardness scale?
+Answer: Gypsum
+Commodity: Gypsum
+Country:  Egypt
+
+4.
+Question: This element is found in the tap water and helps to protect teeth. Hint: Its natural form can be scratched by Aluminum and has 4/10 hardness on Mohs scale.
+Answer: Fluorine
+Commodity: Fluorite
+Country:  Spain
+
+5.
+Question: What is the most common natural form of Silica and is used for making glass?
+Answer: Quartz
+Commodity: Quartz
+Country:  United States of America
+
+6.
+Question: What is the ore that is commonly used in construction projects and is also found on Mars and Moon?
+Answer: Basalt
+Commodity: Basalt
+Country:  India
+
+7.
+Question: What is the soft-chalky material which has Calcite and is used for making Asphalt?
+Answer: Limestone
+Commodity: Limestone
+Country:  Argentina
+
+8.
+Question: The rock that was used to build Taj Mahal may also sit as your kitchen's counter top. Which metamorphic rock is this?
+Answer: Marble
+Commodity: Marble
+Country:  Italy
+
+9.
+Question: Which country produces the most sandstone (a popular type of sedimentary rock) who won 2014 soccer world cup?
+Answer: Germany
+Commodity: Sandstone
+Country:  Germany
+
+10.
+Question: When it gets into the water stream, it contaminates it but it is also celebrated as "Fool's Gold". What is it?
+Answer: Sulphur-Pyrite
+Commodity: Pyrite
+Country:  Greece
+
+11.
+Question: 10/10 on Mohs scale but its cousin's is just 1/10. A 3D arrangement of atoms makes all the difference.
+Answer: Diamond
+Commodity: Diamond
+Country:  Botswana, Africa
+
+12.
+Question: The most populated country extracts the most popular ornamental metal. What is this metal that has atomic number of 79 that is very less reactive?
+Answer: Gold
+Commodity: Gold
+Country:  China
+
+13.
+Question: This ranks 8/10 on Mohs scale. What is this gemstone that is beautifully blue?
+Answer: Topaz
+Commodity: Topaz
+Country:  Sri Lanka
+
+14.
+Question: What is the birth month of the birthstone Emerald according to United States?
+Answer: May
+Commodity: Emerald
+Country:  Columbia
+
+15.
+Question: This metal is usually found along with Lead and Silver that can heal the rashes and also used for making paint.
+Answer: Zinc
+Commodity: Zinc
+Country:  Ireland
+
+16.
+Question: The largest country produces this finest element that can are vital for building light weight but strong structures like aircrafts and spaceships. What is this metal?
+Answer: Titanium (and the country is Russia)
+Commodity: Titanium
+Country:  Russia
+
+17.
+Question: What middle-eastern country produces both Oil and Copper in abundance?
+Answer: Saudi Arabia
+Commodity: Copper
+Country:  Saudi Arabia
+
+18.
+Question: This unique element has an atomic number 40 and the chemical symbol is Zr. What is this element that is used in nuclear reactors?
+Answer: Zirconium
+Commodity: Zirconium
+Country:  Australia
+
+19.
+Question: The north island of New Zealand contains this ore that has magnetic properties. What is this ore?
+Answer: Magnetite
+Commodity: Magnetite
+Country:  New Zealand
+
+20.
+Question: What is the metal that is used as counterweight for aircrafts and also that powers nuclear reactor? (Hint: It is one of the heaviest element.)
+Answer: Uranium
+Commodity: Uranium
+Country:  Kazakhstan
+
+21.
+Question: The main element in this ore is used in car batteries, as weights to pull-down submarines and were also used in the paint and petrol until recently. What is this ore?
+Answer: Galena or Lead Suphide(Lead)
+Commodity: Galena (Lead)
+Country:  Algeria
+
+22.
+Question: In combination with zinc, these compounds are used as flame suppressors. And it's acidic form can be used as antiseptic. What is the ore?
+Answer: Borate (Borox, Boric acid)
+Commodity: Borate
+Country:  Peru
+
+23.
+Question: What is the ore of potassium which is also found in the country that has the longest undefended border? This ore is one of the key ingredient in fertilizers.
+Answer: Potash
+Commodity: Potash
+Country:  Canada
+
+24.
+Question: This ore contains the element that is usually used to purify iron and is highly reactive with oxygen and is referred by the symbol: 'Mn'.
+Answer: Manganite (Manganese)
+Commodity: Manganite
+Country:  Cuba
+
+25.
+Question: Which country exports one of the least reactive metal that gets used to make engagement rings and this country also has the oldest meteor scar in the world?
+Answer: South Africa (and the metal is Platinum)
+Commodity: Platinum
+Country:  South Africa
