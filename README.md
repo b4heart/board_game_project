@@ -1,7 +1,9 @@
-# board_game_project
+# Verumrimor - Geology
+## board_game_project
 This folder contains all the data related to a board game that deals with rocks and minerals
+This board game is called as **Verumrimor**, In latin, _Verum_ means **True** and _Rimor_ means **Explorers**.
 
-## Instructions
+## Game Instructions
 
 
 ## Downloading the data
